@@ -25,3 +25,6 @@
 [submodule "database-basic"]
 	path = database-basic
 	url = https://github.com/yju0808/database-basic.git
+[submodule "terraform-tutorial"]
+	path = terraform-tutorial
+	url = https://github.com/yju0808/terraform-tutorial.git
