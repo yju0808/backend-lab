@@ -1,4 +1,4 @@
-# backend-study
+# backend-lab
 
 백엔드 공부하면서 작성한 코드 모음입니다.
 
@@ -15,3 +15,7 @@
 ## Database
 
 - [database-basic](https://github.com/yju0808/database-basic.git)
+
+## Infrastructure
+
+- [terraform-tutorial](https://github.com/yju0808/terraform-tutorial.git)
